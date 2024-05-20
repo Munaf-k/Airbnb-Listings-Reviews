@@ -36,7 +36,7 @@ The analysis of the Airbnb listings data reveals several important trends and in
 
 
 
-The data highlights the robust growth and significant economic impact of the Airbnb market across major global cities. High review scores and substantial revenue figures indicate a healthy market driven by customer satisfaction and increasing host participation. Cities such as New York, Rio de Janeiro, and Paris stand out with strong revenues and positive customer experiences. Maintaining high standards and adapting to customer needs will be essential for continued success and growth in the short-term rental industry.
+The data highlights the robust growth and significant economic impact of the Airbnb market across major global cities. High review scores and substantial revenue figures indicate a healthy market driven by customer satisfaction and increasing host participation. Cities such as New York and Paris stand out with strong revenues and positive customer experiences. Maintaining high standards and adapting to customer needs will be essential for continued success and growth in the short-term rental industry.
 
 
 **Story Behind the Data**:
