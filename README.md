@@ -16,9 +16,9 @@ The analysis of the Airbnb listings data reveals several important trends and in
 2. **City-Specific Revenue and Review Scores**:
    - **New York**: Highest revenue at $128.68 million with a review score of 93.56.
 
-  - **Paris**: Second highest revenue at $46.65 million with a review score of 93.05.
+   - **Paris**: Second highest revenue at $46.65 million with a review score of 93.05.
 
- - **Mexico City**: Noteworthy for its high review score of 94.33, with revenue of $8.82 million.
+   - **Mexico City**: Noteworthy for its high review score of 94.33, with revenue of $8.82 million.
    - Other notable cities include Cape Town, Rome, Rio de Janeiro, Bangkok and Sydney, with substantial revenues and high review scores, indicating consistent customer satisfaction across these markets .
 
 3. **Average Price Trends**:
