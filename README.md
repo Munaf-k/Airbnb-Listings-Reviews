@@ -44,7 +44,7 @@ The data highlights the robust growth and significant economic impact of the Air
 
 Through this analysis, I discovered some interesting insights:
 
-1. **Top Cities**: New York and Rio de Janeiro are the biggest earners. By boosting marketing efforts in these cities, Airbnb can make even more money.
+1. **Top Cities**: New York and Paris are the biggest earners. By boosting marketing efforts in these cities, Airbnb can make even more money.
 2. **Price Adjustments**: Cities like Mexico City and Cape Town have great reviews but lower prices. Raising prices a bit in these cities could increase revenue.
 3. **More Hosts Needed**: Most listings are managed by individual hosts. By attracting more professional hosts, Airbnb can offer better quality and more options for guests.
 4. **Improve Host Training**: In cities like Hong Kong, there’s room to improve cleanliness and communication. Training hosts in these areas can lead to better guest experiences and more repeat bookings.
